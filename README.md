@@ -43,8 +43,8 @@
 
 ## 📬 Contact
 
-- **Email:** your@email.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** davidalibalio5@email.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/davidalibalio)
 
 ---
 
